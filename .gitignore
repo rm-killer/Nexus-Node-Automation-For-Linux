@@ -1,0 +1,12 @@
+# Ignore Gemini specific files
+GEMINI.md
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
